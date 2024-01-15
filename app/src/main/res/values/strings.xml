@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="state_is_none">Состояние не определено</string>
+    <string name="state_is_wait">Ожидание...</string>
+    <string name="state_is_unlocked">Mac разблокирован</string>
+    <string name="state_is_locked">Мас заблокирован</string>
 </resources>
